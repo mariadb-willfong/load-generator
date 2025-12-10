@@ -1,0 +1,33 @@
+# Binaries (root level only)
+/loadgen
+/loadgen-*
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output directories
+output/
+*.csv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+*.out
+coverage.html
+
+# Dependency directories
+vendor/
+
+# Debug
+__debug_bin

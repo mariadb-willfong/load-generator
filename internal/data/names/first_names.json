@@ -1,0 +1,203 @@
+{
+  "regions": {
+    "north_america": {
+      "countries": ["US", "CA"],
+      "male": [
+        "James", "John", "Robert", "Michael", "William", "David", "Joseph", "Charles",
+        "Thomas", "Christopher", "Daniel", "Matthew", "Anthony", "Mark", "Donald",
+        "Steven", "Andrew", "Paul", "Joshua", "Kenneth", "Kevin", "Brian", "George",
+        "Timothy", "Ronald", "Edward", "Jason", "Jeffrey", "Ryan", "Jacob"
+      ],
+      "female": [
+        "Mary", "Patricia", "Jennifer", "Linda", "Elizabeth", "Barbara", "Susan",
+        "Jessica", "Sarah", "Karen", "Lisa", "Nancy", "Betty", "Margaret", "Sandra",
+        "Ashley", "Dorothy", "Kimberly", "Emily", "Donna", "Michelle", "Carol",
+        "Amanda", "Melissa", "Deborah", "Stephanie", "Rebecca", "Laura", "Sharon", "Rachel"
+      ]
+    },
+    "uk_ireland": {
+      "countries": ["GB", "IE"],
+      "male": [
+        "Oliver", "George", "Harry", "Jack", "Noah", "Leo", "Arthur", "Oscar",
+        "Charlie", "Henry", "William", "James", "Alfie", "Thomas", "Archie",
+        "Edward", "Alexander", "Freddie", "Lucas", "Ethan", "Jacob", "Daniel",
+        "Sebastian", "Benjamin", "Isaac", "Max", "Theo", "Joseph", "Samuel", "Adam"
+      ],
+      "female": [
+        "Olivia", "Amelia", "Isla", "Ava", "Emily", "Sophia", "Grace", "Mia",
+        "Poppy", "Ella", "Lily", "Evie", "Charlotte", "Isabella", "Sophie",
+        "Daisy", "Freya", "Alice", "Florence", "Sienna", "Rosie", "Ivy", "Ruby",
+        "Elsie", "Phoebe", "Willow", "Harper", "Evelyn", "Jessica", "Chloe"
+      ]
+    },
+    "western_europe": {
+      "countries": ["DE", "FR", "NL", "BE", "AT", "CH"],
+      "male": [
+        "Maximilian", "Alexander", "Paul", "Leon", "Lukas", "Felix", "Jonas",
+        "Louis", "Gabriel", "Hugo", "Lucas", "Adam", "Jules", "Arthur", "Rafael",
+        "Noah", "Liam", "Nathan", "Ethan", "Tom", "Lars", "Jan", "Pieter", "Finn",
+        "Sebastian", "Niklas", "Moritz", "David", "Julian", "Elias"
+      ],
+      "female": [
+        "Emma", "Mia", "Hannah", "Sofia", "Anna", "Marie", "Lea", "Lena", "Clara",
+        "Louise", "Jade", "Alice", "Chloe", "Lina", "Amelie", "Laura", "Charlotte",
+        "Eva", "Sarah", "Julia", "Lisa", "Nina", "Nora", "Zoe", "Lotte", "Fien",
+        "Sophie", "Elena", "Emilia", "Victoria"
+      ]
+    },
+    "southern_europe": {
+      "countries": ["ES", "IT", "PT", "GR"],
+      "male": [
+        "Antonio", "Francisco", "Manuel", "Jose", "David", "Juan", "Carlos",
+        "Jesus", "Alejandro", "Miguel", "Marco", "Giuseppe", "Giovanni", "Andrea",
+        "Francesco", "Luca", "Matteo", "Alessandro", "Lorenzo", "Leonardo",
+        "Joao", "Pedro", "Tiago", "Diogo", "Rodrigo", "Georgios", "Dimitrios",
+        "Konstantinos", "Nikolaos", "Christos"
+      ],
+      "female": [
+        "Maria", "Carmen", "Ana", "Isabel", "Laura", "Lucia", "Marta", "Sofia",
+        "Valentina", "Giulia", "Francesca", "Chiara", "Sara", "Martina", "Beatriz",
+        "Ines", "Carolina", "Mariana", "Catarina", "Helena", "Eleni", "Aikaterini",
+        "Sophia", "Anna", "Dimitra", "Rosa", "Angela", "Teresa", "Elena", "Adriana"
+      ]
+    },
+    "eastern_europe": {
+      "countries": ["PL", "CZ", "HU", "RO", "BG", "UA", "RU"],
+      "male": [
+        "Jakub", "Jan", "Mateusz", "Kacper", "Filip", "Szymon", "Wojciech",
+        "Tomasz", "Michal", "Piotr", "Martin", "Ondrej", "Tomas", "David",
+        "Peter", "Balazs", "Marton", "Andrei", "Alexandru", "Stefan", "Georgi",
+        "Ivan", "Nikolay", "Oleksandr", "Dmitro", "Mikhail", "Alexei", "Sergei",
+        "Vladimir", "Nikolai"
+      ],
+      "female": [
+        "Zuzanna", "Julia", "Maja", "Lena", "Zofia", "Anna", "Natalia", "Wiktoria",
+        "Tereza", "Karolina", "Veronika", "Eszter", "Reka", "Nora", "Maria",
+        "Ioana", "Andreea", "Elena", "Alexandra", "Viktoria", "Kalina", "Sofia",
+        "Olga", "Yulia", "Ekaterina", "Tatiana", "Anastasia", "Svetlana", "Irina", "Maria"
+      ]
+    },
+    "nordic": {
+      "countries": ["SE", "NO", "DK", "FI"],
+      "male": [
+        "William", "Lucas", "Liam", "Oscar", "Oliver", "Elias", "Noah", "Hugo",
+        "Emil", "Viktor", "Erik", "Magnus", "Alexander", "Axel", "Adrian",
+        "Filip", "Mikkel", "Frederik", "Jonas", "Sebastian", "Onni", "Eetu",
+        "Oliver", "Leo", "Elias", "Henrik", "Lars", "Anders", "Nils", "Sven"
+      ],
+      "female": [
+        "Emma", "Alice", "Maja", "Elsa", "Ella", "Olivia", "Wilma", "Saga",
+        "Ebba", "Freja", "Nora", "Ingrid", "Sofia", "Ida", "Emilia", "Astrid",
+        "Aurora", "Helene", "Hanna", "Thea", "Aino", "Venla", "Aada", "Sofia",
+        "Ellen", "Sigrid", "Linnea", "Anna", "Karin", "Maria"
+      ]
+    },
+    "middle_east": {
+      "countries": ["AE", "SA", "QA", "KW", "BH", "OM", "IL", "TR"],
+      "male": [
+        "Mohammed", "Ahmed", "Ali", "Omar", "Youssef", "Khalid", "Faisal",
+        "Hassan", "Ibrahim", "Abdullah", "Tariq", "Rashid", "Saeed", "Hamad",
+        "Nasser", "Sultan", "Majid", "Waleed", "Fahad", "Salman", "Moshe",
+        "David", "Yosef", "Ahmet", "Mehmet", "Mustafa", "Emre", "Burak", "Can", "Eren"
+      ],
+      "female": [
+        "Fatima", "Aisha", "Maryam", "Sara", "Noor", "Layla", "Hana", "Reem",
+        "Dana", "Lina", "Noura", "Amira", "Salma", "Yasmina", "Leila", "Mariam",
+        "Latifa", "Shaikha", "Sarah", "Maya", "Elif", "Zeynep", "Ayse", "Merve",
+        "Esra", "Yael", "Noa", "Tamar", "Maya", "Shira"
+      ]
+    },
+    "south_asia": {
+      "countries": ["IN", "PK", "BD", "LK", "NP"],
+      "male": [
+        "Aarav", "Vivaan", "Aditya", "Vihaan", "Arjun", "Sai", "Reyansh",
+        "Ayaan", "Krishna", "Ishaan", "Shubham", "Rahul", "Amit", "Vikram",
+        "Rohan", "Mohammad", "Ali", "Hassan", "Usman", "Ahmed", "Abdullah",
+        "Imran", "Tanvir", "Rafiq", "Sunil", "Rajan", "Ashan", "Kasun", "Dinesh", "Rajesh"
+      ],
+      "female": [
+        "Aanya", "Saanvi", "Aadhya", "Isha", "Ananya", "Priya", "Riya", "Divya",
+        "Sneha", "Pooja", "Anjali", "Kavya", "Nisha", "Meera", "Shruti", "Fatima",
+        "Ayesha", "Zara", "Sana", "Maria", "Nadia", "Amina", "Fariha", "Ishani",
+        "Dilini", "Chamari", "Samantha", "Kavitha", "Lakshmi", "Deepa"
+      ]
+    },
+    "east_asia": {
+      "countries": ["CN", "JP", "KR", "TW", "HK", "SG"],
+      "male": [
+        "Wei", "Fang", "Jie", "Hao", "Ming", "Jun", "Cheng", "Yang", "Lei", "Xin",
+        "Hiroshi", "Takeshi", "Kenji", "Yuto", "Haruto", "Sota", "Riku", "Kaito",
+        "Minho", "Jihoon", "Seojun", "Junho", "Hyunwoo", "Woojin", "Sungjin",
+        "Jiale", "Weijie", "Yuxuan", "Zihao", "Junhao"
+      ],
+      "female": [
+        "Xia", "Mei", "Ling", "Yan", "Jing", "Hong", "Yu", "Hui", "Fang", "Li",
+        "Yui", "Hana", "Sakura", "Aoi", "Mio", "Rin", "Saki", "Yuki", "Minji",
+        "Soyeon", "Jiwoo", "Yuna", "Chaeyoung", "Soomin", "Haeun", "Xinyi",
+        "Yuxin", "Zihan", "Yutong", "Weiwei"
+      ]
+    },
+    "southeast_asia": {
+      "countries": ["TH", "MY", "ID", "PH", "VN"],
+      "male": [
+        "Somchai", "Nattapong", "Thawatchai", "Pichit", "Wichai", "Ahmad",
+        "Muhammad", "Aziz", "Farhan", "Rizal", "Budi", "Agus", "Dedi", "Hendra",
+        "Juan", "Jose", "Miguel", "Carlos", "Antonio", "Nguyen", "Tran", "Minh",
+        "Duc", "Hung", "Huy", "Phong", "Thanh", "Long", "Duy", "Quang"
+      ],
+      "female": [
+        "Ploy", "Nong", "Pim", "Fah", "Nid", "Fatimah", "Nurul", "Siti", "Aisha",
+        "Putri", "Dewi", "Sri", "Rina", "Wati", "Maria", "Ana", "Rosa", "Elena",
+        "Nguyet", "Thi", "Lan", "Huong", "Mai", "Linh", "Hanh", "Nga", "Hong", "Thuy",
+        "Yen", "Kim"
+      ]
+    },
+    "latin_america": {
+      "countries": ["MX", "BR", "AR", "CO", "CL", "PE", "VE"],
+      "male": [
+        "Santiago", "Sebastian", "Mateo", "Nicolas", "Alejandro", "Daniel",
+        "Diego", "Miguel", "Andres", "Lucas", "Gabriel", "Pedro", "Rafael",
+        "Bruno", "Gustavo", "Thiago", "Enzo", "Valentino", "Benjamin", "Martin",
+        "Joaquin", "Carlos", "Jose", "Fernando", "Ricardo", "Eduardo", "Gonzalo",
+        "Marcos", "Pablo", "Luis"
+      ],
+      "female": [
+        "Sofia", "Valentina", "Isabella", "Camila", "Mariana", "Lucia", "Victoria",
+        "Daniela", "Gabriela", "Valeria", "Martina", "Renata", "Maria", "Fernanda",
+        "Natalia", "Carolina", "Andrea", "Paula", "Ana", "Julia", "Beatriz",
+        "Larissa", "Bruna", "Amanda", "Leticia", "Florencia", "Agustina", "Catalina",
+        "Antonella", "Emilia"
+      ]
+    },
+    "africa": {
+      "countries": ["ZA", "NG", "KE", "EG", "MA", "GH", "TZ", "ET"],
+      "male": [
+        "Thabo", "Sipho", "Bongani", "Nkosinathi", "Mpho", "Emeka", "Chinedu",
+        "Oluwaseun", "Adewale", "Chijioke", "Brian", "Kevin", "Peter", "James",
+        "John", "Kwame", "Kofi", "Yaw", "Ahmed", "Mohamed", "Omar", "Hassan",
+        "Ibrahim", "Yohannes", "Tesfaye", "Abebe", "Dawit", "Mwangi", "Ochieng", "Kamau"
+      ],
+      "female": [
+        "Nomvula", "Thandi", "Zanele", "Lerato", "Precious", "Chidinma", "Ngozi",
+        "Adaeze", "Oluwakemi", "Funmilayo", "Grace", "Faith", "Joy", "Mercy",
+        "Hope", "Akosua", "Ama", "Abena", "Fatima", "Amina", "Aisha", "Sara",
+        "Mariam", "Tigist", "Meron", "Hana", "Wanjiku", "Akinyi", "Njeri", "Amara"
+      ]
+    },
+    "oceania": {
+      "countries": ["AU", "NZ"],
+      "male": [
+        "Oliver", "Noah", "William", "Jack", "Leo", "Henry", "Charlie", "Thomas",
+        "James", "Lucas", "Liam", "Mason", "Ethan", "Alexander", "Archie",
+        "Oscar", "Hunter", "Cooper", "Lachlan", "Harrison", "Xavier", "Finn",
+        "Angus", "Jasper", "Ryan", "Samuel", "Benjamin", "Max", "Daniel", "Owen"
+      ],
+      "female": [
+        "Charlotte", "Olivia", "Amelia", "Isla", "Mia", "Ava", "Grace", "Willow",
+        "Harper", "Sophie", "Chloe", "Ella", "Zoe", "Emily", "Lily", "Ruby",
+        "Ivy", "Evie", "Matilda", "Aria", "Sophia", "Lucy", "Scarlett", "Poppy",
+        "Audrey", "Georgia", "Bella", "Hazel", "Mila", "Sienna"
+      ]
+    }
+  }
+}

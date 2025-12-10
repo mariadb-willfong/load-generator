@@ -1,0 +1,588 @@
+{
+  "countries": {
+    "US": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "New York", "state": "NY", "postal_prefix": "100"},
+        {"city": "Los Angeles", "state": "CA", "postal_prefix": "900"},
+        {"city": "Chicago", "state": "IL", "postal_prefix": "606"},
+        {"city": "Houston", "state": "TX", "postal_prefix": "770"},
+        {"city": "Phoenix", "state": "AZ", "postal_prefix": "850"},
+        {"city": "Philadelphia", "state": "PA", "postal_prefix": "191"},
+        {"city": "San Antonio", "state": "TX", "postal_prefix": "782"},
+        {"city": "San Diego", "state": "CA", "postal_prefix": "921"},
+        {"city": "Dallas", "state": "TX", "postal_prefix": "752"},
+        {"city": "San Jose", "state": "CA", "postal_prefix": "951"},
+        {"city": "Austin", "state": "TX", "postal_prefix": "787"},
+        {"city": "Jacksonville", "state": "FL", "postal_prefix": "322"},
+        {"city": "Fort Worth", "state": "TX", "postal_prefix": "761"},
+        {"city": "Columbus", "state": "OH", "postal_prefix": "432"},
+        {"city": "Charlotte", "state": "NC", "postal_prefix": "282"},
+        {"city": "Seattle", "state": "WA", "postal_prefix": "981"},
+        {"city": "Denver", "state": "CO", "postal_prefix": "802"},
+        {"city": "Boston", "state": "MA", "postal_prefix": "021"},
+        {"city": "Miami", "state": "FL", "postal_prefix": "331"},
+        {"city": "Atlanta", "state": "GA", "postal_prefix": "303"}
+      ]
+    },
+    "CA": {
+      "postal_format": "A#A #A#",
+      "cities": [
+        {"city": "Toronto", "state": "ON", "postal_prefix": "M5"},
+        {"city": "Montreal", "state": "QC", "postal_prefix": "H3"},
+        {"city": "Vancouver", "state": "BC", "postal_prefix": "V6"},
+        {"city": "Calgary", "state": "AB", "postal_prefix": "T2"},
+        {"city": "Edmonton", "state": "AB", "postal_prefix": "T5"},
+        {"city": "Ottawa", "state": "ON", "postal_prefix": "K1"},
+        {"city": "Winnipeg", "state": "MB", "postal_prefix": "R3"},
+        {"city": "Quebec City", "state": "QC", "postal_prefix": "G1"},
+        {"city": "Hamilton", "state": "ON", "postal_prefix": "L8"},
+        {"city": "Victoria", "state": "BC", "postal_prefix": "V8"}
+      ]
+    },
+    "GB": {
+      "postal_format": "AA## #AA",
+      "cities": [
+        {"city": "London", "state": "England", "postal_prefix": "EC"},
+        {"city": "Birmingham", "state": "England", "postal_prefix": "B"},
+        {"city": "Manchester", "state": "England", "postal_prefix": "M"},
+        {"city": "Glasgow", "state": "Scotland", "postal_prefix": "G"},
+        {"city": "Liverpool", "state": "England", "postal_prefix": "L"},
+        {"city": "Leeds", "state": "England", "postal_prefix": "LS"},
+        {"city": "Edinburgh", "state": "Scotland", "postal_prefix": "EH"},
+        {"city": "Bristol", "state": "England", "postal_prefix": "BS"},
+        {"city": "Cardiff", "state": "Wales", "postal_prefix": "CF"},
+        {"city": "Belfast", "state": "Northern Ireland", "postal_prefix": "BT"}
+      ]
+    },
+    "IE": {
+      "postal_format": "A## A###",
+      "cities": [
+        {"city": "Dublin", "state": "Leinster", "postal_prefix": "D"},
+        {"city": "Cork", "state": "Munster", "postal_prefix": "T"},
+        {"city": "Galway", "state": "Connacht", "postal_prefix": "H"},
+        {"city": "Limerick", "state": "Munster", "postal_prefix": "V"},
+        {"city": "Waterford", "state": "Munster", "postal_prefix": "X"}
+      ]
+    },
+    "DE": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Berlin", "state": "Berlin", "postal_prefix": "10"},
+        {"city": "Hamburg", "state": "Hamburg", "postal_prefix": "20"},
+        {"city": "Munich", "state": "Bavaria", "postal_prefix": "80"},
+        {"city": "Cologne", "state": "NRW", "postal_prefix": "50"},
+        {"city": "Frankfurt", "state": "Hesse", "postal_prefix": "60"},
+        {"city": "Stuttgart", "state": "BW", "postal_prefix": "70"},
+        {"city": "Dusseldorf", "state": "NRW", "postal_prefix": "40"},
+        {"city": "Leipzig", "state": "Saxony", "postal_prefix": "04"},
+        {"city": "Dortmund", "state": "NRW", "postal_prefix": "44"},
+        {"city": "Essen", "state": "NRW", "postal_prefix": "45"}
+      ]
+    },
+    "FR": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Paris", "state": "Ile-de-France", "postal_prefix": "75"},
+        {"city": "Marseille", "state": "PACA", "postal_prefix": "13"},
+        {"city": "Lyon", "state": "Auvergne-RA", "postal_prefix": "69"},
+        {"city": "Toulouse", "state": "Occitanie", "postal_prefix": "31"},
+        {"city": "Nice", "state": "PACA", "postal_prefix": "06"},
+        {"city": "Nantes", "state": "Pays de la Loire", "postal_prefix": "44"},
+        {"city": "Strasbourg", "state": "Grand Est", "postal_prefix": "67"},
+        {"city": "Montpellier", "state": "Occitanie", "postal_prefix": "34"},
+        {"city": "Bordeaux", "state": "Nouvelle-Aquitaine", "postal_prefix": "33"},
+        {"city": "Lille", "state": "Hauts-de-France", "postal_prefix": "59"}
+      ]
+    },
+    "NL": {
+      "postal_format": "#### AA",
+      "cities": [
+        {"city": "Amsterdam", "state": "North Holland", "postal_prefix": "10"},
+        {"city": "Rotterdam", "state": "South Holland", "postal_prefix": "30"},
+        {"city": "The Hague", "state": "South Holland", "postal_prefix": "25"},
+        {"city": "Utrecht", "state": "Utrecht", "postal_prefix": "35"},
+        {"city": "Eindhoven", "state": "North Brabant", "postal_prefix": "56"}
+      ]
+    },
+    "BE": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Brussels", "state": "Brussels", "postal_prefix": "10"},
+        {"city": "Antwerp", "state": "Flanders", "postal_prefix": "20"},
+        {"city": "Ghent", "state": "Flanders", "postal_prefix": "90"},
+        {"city": "Charleroi", "state": "Wallonia", "postal_prefix": "60"},
+        {"city": "Liege", "state": "Wallonia", "postal_prefix": "40"}
+      ]
+    },
+    "AT": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Vienna", "state": "Vienna", "postal_prefix": "10"},
+        {"city": "Graz", "state": "Styria", "postal_prefix": "80"},
+        {"city": "Linz", "state": "Upper Austria", "postal_prefix": "40"},
+        {"city": "Salzburg", "state": "Salzburg", "postal_prefix": "50"},
+        {"city": "Innsbruck", "state": "Tyrol", "postal_prefix": "60"}
+      ]
+    },
+    "CH": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Zurich", "state": "Zurich", "postal_prefix": "80"},
+        {"city": "Geneva", "state": "Geneva", "postal_prefix": "12"},
+        {"city": "Basel", "state": "Basel-Stadt", "postal_prefix": "40"},
+        {"city": "Bern", "state": "Bern", "postal_prefix": "30"},
+        {"city": "Lausanne", "state": "Vaud", "postal_prefix": "10"}
+      ]
+    },
+    "ES": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Madrid", "state": "Community of Madrid", "postal_prefix": "280"},
+        {"city": "Barcelona", "state": "Catalonia", "postal_prefix": "080"},
+        {"city": "Valencia", "state": "Valencia", "postal_prefix": "460"},
+        {"city": "Seville", "state": "Andalusia", "postal_prefix": "410"},
+        {"city": "Zaragoza", "state": "Aragon", "postal_prefix": "500"},
+        {"city": "Malaga", "state": "Andalusia", "postal_prefix": "290"},
+        {"city": "Bilbao", "state": "Basque Country", "postal_prefix": "480"},
+        {"city": "Murcia", "state": "Murcia", "postal_prefix": "300"}
+      ]
+    },
+    "IT": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Rome", "state": "Lazio", "postal_prefix": "001"},
+        {"city": "Milan", "state": "Lombardy", "postal_prefix": "201"},
+        {"city": "Naples", "state": "Campania", "postal_prefix": "801"},
+        {"city": "Turin", "state": "Piedmont", "postal_prefix": "101"},
+        {"city": "Palermo", "state": "Sicily", "postal_prefix": "901"},
+        {"city": "Genoa", "state": "Liguria", "postal_prefix": "161"},
+        {"city": "Bologna", "state": "Emilia-Romagna", "postal_prefix": "401"},
+        {"city": "Florence", "state": "Tuscany", "postal_prefix": "501"},
+        {"city": "Venice", "state": "Veneto", "postal_prefix": "301"}
+      ]
+    },
+    "PT": {
+      "postal_format": "####-###",
+      "cities": [
+        {"city": "Lisbon", "state": "Lisbon", "postal_prefix": "10"},
+        {"city": "Porto", "state": "Porto", "postal_prefix": "40"},
+        {"city": "Braga", "state": "Braga", "postal_prefix": "47"},
+        {"city": "Coimbra", "state": "Coimbra", "postal_prefix": "30"},
+        {"city": "Faro", "state": "Faro", "postal_prefix": "80"}
+      ]
+    },
+    "GR": {
+      "postal_format": "### ##",
+      "cities": [
+        {"city": "Athens", "state": "Attica", "postal_prefix": "10"},
+        {"city": "Thessaloniki", "state": "Central Macedonia", "postal_prefix": "54"},
+        {"city": "Patras", "state": "Western Greece", "postal_prefix": "26"},
+        {"city": "Heraklion", "state": "Crete", "postal_prefix": "71"},
+        {"city": "Larissa", "state": "Thessaly", "postal_prefix": "41"}
+      ]
+    },
+    "PL": {
+      "postal_format": "##-###",
+      "cities": [
+        {"city": "Warsaw", "state": "Masovia", "postal_prefix": "00"},
+        {"city": "Krakow", "state": "Lesser Poland", "postal_prefix": "30"},
+        {"city": "Lodz", "state": "Lodz", "postal_prefix": "90"},
+        {"city": "Wroclaw", "state": "Lower Silesia", "postal_prefix": "50"},
+        {"city": "Poznan", "state": "Greater Poland", "postal_prefix": "60"},
+        {"city": "Gdansk", "state": "Pomerania", "postal_prefix": "80"}
+      ]
+    },
+    "CZ": {
+      "postal_format": "### ##",
+      "cities": [
+        {"city": "Prague", "state": "Prague", "postal_prefix": "1"},
+        {"city": "Brno", "state": "South Moravia", "postal_prefix": "6"},
+        {"city": "Ostrava", "state": "Moravia-Silesia", "postal_prefix": "7"},
+        {"city": "Plzen", "state": "Plzen", "postal_prefix": "3"}
+      ]
+    },
+    "HU": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Budapest", "state": "Budapest", "postal_prefix": "10"},
+        {"city": "Debrecen", "state": "Hajdu-Bihar", "postal_prefix": "40"},
+        {"city": "Szeged", "state": "Csongrad-Csanad", "postal_prefix": "67"},
+        {"city": "Miskolc", "state": "Borsod-Abauj-Zemplen", "postal_prefix": "35"}
+      ]
+    },
+    "RO": {
+      "postal_format": "######",
+      "cities": [
+        {"city": "Bucharest", "state": "Bucharest", "postal_prefix": "01"},
+        {"city": "Cluj-Napoca", "state": "Cluj", "postal_prefix": "40"},
+        {"city": "Timisoara", "state": "Timis", "postal_prefix": "30"},
+        {"city": "Iasi", "state": "Iasi", "postal_prefix": "70"},
+        {"city": "Constanta", "state": "Constanta", "postal_prefix": "90"}
+      ]
+    },
+    "SE": {
+      "postal_format": "### ##",
+      "cities": [
+        {"city": "Stockholm", "state": "Stockholm", "postal_prefix": "1"},
+        {"city": "Gothenburg", "state": "Vastra Gotaland", "postal_prefix": "4"},
+        {"city": "Malmo", "state": "Skane", "postal_prefix": "2"},
+        {"city": "Uppsala", "state": "Uppsala", "postal_prefix": "7"},
+        {"city": "Linkoping", "state": "Ostergotland", "postal_prefix": "5"}
+      ]
+    },
+    "NO": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Oslo", "state": "Oslo", "postal_prefix": "0"},
+        {"city": "Bergen", "state": "Vestland", "postal_prefix": "5"},
+        {"city": "Trondheim", "state": "Trondelag", "postal_prefix": "7"},
+        {"city": "Stavanger", "state": "Rogaland", "postal_prefix": "4"}
+      ]
+    },
+    "DK": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Copenhagen", "state": "Capital Region", "postal_prefix": "1"},
+        {"city": "Aarhus", "state": "Central Denmark", "postal_prefix": "8"},
+        {"city": "Odense", "state": "Southern Denmark", "postal_prefix": "5"},
+        {"city": "Aalborg", "state": "North Denmark", "postal_prefix": "9"}
+      ]
+    },
+    "FI": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Helsinki", "state": "Uusimaa", "postal_prefix": "00"},
+        {"city": "Espoo", "state": "Uusimaa", "postal_prefix": "02"},
+        {"city": "Tampere", "state": "Pirkanmaa", "postal_prefix": "33"},
+        {"city": "Turku", "state": "Southwest Finland", "postal_prefix": "20"},
+        {"city": "Oulu", "state": "North Ostrobothnia", "postal_prefix": "90"}
+      ]
+    },
+    "AE": {
+      "postal_format": "",
+      "cities": [
+        {"city": "Dubai", "state": "Dubai", "postal_prefix": ""},
+        {"city": "Abu Dhabi", "state": "Abu Dhabi", "postal_prefix": ""},
+        {"city": "Sharjah", "state": "Sharjah", "postal_prefix": ""},
+        {"city": "Ajman", "state": "Ajman", "postal_prefix": ""}
+      ]
+    },
+    "SA": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Riyadh", "state": "Riyadh", "postal_prefix": "1"},
+        {"city": "Jeddah", "state": "Makkah", "postal_prefix": "2"},
+        {"city": "Mecca", "state": "Makkah", "postal_prefix": "2"},
+        {"city": "Dammam", "state": "Eastern", "postal_prefix": "3"}
+      ]
+    },
+    "QA": {
+      "postal_format": "",
+      "cities": [
+        {"city": "Doha", "state": "Doha", "postal_prefix": ""},
+        {"city": "Al Wakrah", "state": "Al Wakrah", "postal_prefix": ""},
+        {"city": "Al Khor", "state": "Al Khor", "postal_prefix": ""}
+      ]
+    },
+    "IL": {
+      "postal_format": "#######",
+      "cities": [
+        {"city": "Tel Aviv", "state": "Tel Aviv", "postal_prefix": "6"},
+        {"city": "Jerusalem", "state": "Jerusalem", "postal_prefix": "9"},
+        {"city": "Haifa", "state": "Haifa", "postal_prefix": "3"},
+        {"city": "Rishon LeZion", "state": "Central", "postal_prefix": "7"}
+      ]
+    },
+    "TR": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Istanbul", "state": "Istanbul", "postal_prefix": "34"},
+        {"city": "Ankara", "state": "Ankara", "postal_prefix": "06"},
+        {"city": "Izmir", "state": "Izmir", "postal_prefix": "35"},
+        {"city": "Bursa", "state": "Bursa", "postal_prefix": "16"},
+        {"city": "Antalya", "state": "Antalya", "postal_prefix": "07"}
+      ]
+    },
+    "IN": {
+      "postal_format": "######",
+      "cities": [
+        {"city": "Mumbai", "state": "Maharashtra", "postal_prefix": "40"},
+        {"city": "Delhi", "state": "Delhi", "postal_prefix": "11"},
+        {"city": "Bangalore", "state": "Karnataka", "postal_prefix": "56"},
+        {"city": "Hyderabad", "state": "Telangana", "postal_prefix": "50"},
+        {"city": "Chennai", "state": "Tamil Nadu", "postal_prefix": "60"},
+        {"city": "Kolkata", "state": "West Bengal", "postal_prefix": "70"},
+        {"city": "Pune", "state": "Maharashtra", "postal_prefix": "41"},
+        {"city": "Ahmedabad", "state": "Gujarat", "postal_prefix": "38"},
+        {"city": "Jaipur", "state": "Rajasthan", "postal_prefix": "30"},
+        {"city": "Lucknow", "state": "Uttar Pradesh", "postal_prefix": "22"}
+      ]
+    },
+    "PK": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Karachi", "state": "Sindh", "postal_prefix": "74"},
+        {"city": "Lahore", "state": "Punjab", "postal_prefix": "54"},
+        {"city": "Islamabad", "state": "ICT", "postal_prefix": "44"},
+        {"city": "Rawalpindi", "state": "Punjab", "postal_prefix": "46"},
+        {"city": "Faisalabad", "state": "Punjab", "postal_prefix": "38"}
+      ]
+    },
+    "BD": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Dhaka", "state": "Dhaka", "postal_prefix": "12"},
+        {"city": "Chittagong", "state": "Chittagong", "postal_prefix": "43"},
+        {"city": "Khulna", "state": "Khulna", "postal_prefix": "91"},
+        {"city": "Rajshahi", "state": "Rajshahi", "postal_prefix": "62"}
+      ]
+    },
+    "LK": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Colombo", "state": "Western", "postal_prefix": "00"},
+        {"city": "Kandy", "state": "Central", "postal_prefix": "20"},
+        {"city": "Galle", "state": "Southern", "postal_prefix": "80"}
+      ]
+    },
+    "CN": {
+      "postal_format": "######",
+      "cities": [
+        {"city": "Shanghai", "state": "Shanghai", "postal_prefix": "20"},
+        {"city": "Beijing", "state": "Beijing", "postal_prefix": "10"},
+        {"city": "Guangzhou", "state": "Guangdong", "postal_prefix": "51"},
+        {"city": "Shenzhen", "state": "Guangdong", "postal_prefix": "51"},
+        {"city": "Chengdu", "state": "Sichuan", "postal_prefix": "61"},
+        {"city": "Hangzhou", "state": "Zhejiang", "postal_prefix": "31"},
+        {"city": "Wuhan", "state": "Hubei", "postal_prefix": "43"},
+        {"city": "Xian", "state": "Shaanxi", "postal_prefix": "71"},
+        {"city": "Nanjing", "state": "Jiangsu", "postal_prefix": "21"},
+        {"city": "Tianjin", "state": "Tianjin", "postal_prefix": "30"}
+      ]
+    },
+    "JP": {
+      "postal_format": "###-####",
+      "cities": [
+        {"city": "Tokyo", "state": "Tokyo", "postal_prefix": "1"},
+        {"city": "Yokohama", "state": "Kanagawa", "postal_prefix": "2"},
+        {"city": "Osaka", "state": "Osaka", "postal_prefix": "5"},
+        {"city": "Nagoya", "state": "Aichi", "postal_prefix": "4"},
+        {"city": "Sapporo", "state": "Hokkaido", "postal_prefix": "0"},
+        {"city": "Kobe", "state": "Hyogo", "postal_prefix": "6"},
+        {"city": "Kyoto", "state": "Kyoto", "postal_prefix": "6"},
+        {"city": "Fukuoka", "state": "Fukuoka", "postal_prefix": "8"}
+      ]
+    },
+    "KR": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Seoul", "state": "Seoul", "postal_prefix": "0"},
+        {"city": "Busan", "state": "Busan", "postal_prefix": "4"},
+        {"city": "Incheon", "state": "Incheon", "postal_prefix": "2"},
+        {"city": "Daegu", "state": "Daegu", "postal_prefix": "4"},
+        {"city": "Daejeon", "state": "Daejeon", "postal_prefix": "3"}
+      ]
+    },
+    "TW": {
+      "postal_format": "###",
+      "cities": [
+        {"city": "Taipei", "state": "Taipei", "postal_prefix": "1"},
+        {"city": "Kaohsiung", "state": "Kaohsiung", "postal_prefix": "8"},
+        {"city": "Taichung", "state": "Taichung", "postal_prefix": "4"},
+        {"city": "Tainan", "state": "Tainan", "postal_prefix": "7"}
+      ]
+    },
+    "HK": {
+      "postal_format": "",
+      "cities": [
+        {"city": "Hong Kong Island", "state": "Hong Kong", "postal_prefix": ""},
+        {"city": "Kowloon", "state": "Hong Kong", "postal_prefix": ""},
+        {"city": "New Territories", "state": "Hong Kong", "postal_prefix": ""}
+      ]
+    },
+    "SG": {
+      "postal_format": "######",
+      "cities": [
+        {"city": "Singapore", "state": "Singapore", "postal_prefix": ""}
+      ]
+    },
+    "TH": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Bangkok", "state": "Bangkok", "postal_prefix": "10"},
+        {"city": "Chiang Mai", "state": "Chiang Mai", "postal_prefix": "50"},
+        {"city": "Phuket", "state": "Phuket", "postal_prefix": "83"},
+        {"city": "Pattaya", "state": "Chonburi", "postal_prefix": "20"}
+      ]
+    },
+    "MY": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Kuala Lumpur", "state": "KL", "postal_prefix": "5"},
+        {"city": "George Town", "state": "Penang", "postal_prefix": "1"},
+        {"city": "Johor Bahru", "state": "Johor", "postal_prefix": "8"},
+        {"city": "Kota Kinabalu", "state": "Sabah", "postal_prefix": "8"}
+      ]
+    },
+    "ID": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Jakarta", "state": "Jakarta", "postal_prefix": "1"},
+        {"city": "Surabaya", "state": "East Java", "postal_prefix": "6"},
+        {"city": "Bandung", "state": "West Java", "postal_prefix": "4"},
+        {"city": "Medan", "state": "North Sumatra", "postal_prefix": "2"},
+        {"city": "Bali", "state": "Bali", "postal_prefix": "8"}
+      ]
+    },
+    "PH": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Manila", "state": "Metro Manila", "postal_prefix": "1"},
+        {"city": "Quezon City", "state": "Metro Manila", "postal_prefix": "1"},
+        {"city": "Cebu City", "state": "Cebu", "postal_prefix": "6"},
+        {"city": "Davao City", "state": "Davao", "postal_prefix": "8"}
+      ]
+    },
+    "VN": {
+      "postal_format": "######",
+      "cities": [
+        {"city": "Ho Chi Minh City", "state": "HCMC", "postal_prefix": "7"},
+        {"city": "Hanoi", "state": "Hanoi", "postal_prefix": "1"},
+        {"city": "Da Nang", "state": "Da Nang", "postal_prefix": "5"},
+        {"city": "Hai Phong", "state": "Hai Phong", "postal_prefix": "1"}
+      ]
+    },
+    "MX": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Mexico City", "state": "CDMX", "postal_prefix": "0"},
+        {"city": "Guadalajara", "state": "Jalisco", "postal_prefix": "4"},
+        {"city": "Monterrey", "state": "Nuevo Leon", "postal_prefix": "6"},
+        {"city": "Puebla", "state": "Puebla", "postal_prefix": "7"},
+        {"city": "Tijuana", "state": "Baja California", "postal_prefix": "2"},
+        {"city": "Cancun", "state": "Quintana Roo", "postal_prefix": "7"}
+      ]
+    },
+    "BR": {
+      "postal_format": "#####-###",
+      "cities": [
+        {"city": "Sao Paulo", "state": "SP", "postal_prefix": "0"},
+        {"city": "Rio de Janeiro", "state": "RJ", "postal_prefix": "2"},
+        {"city": "Brasilia", "state": "DF", "postal_prefix": "7"},
+        {"city": "Salvador", "state": "BA", "postal_prefix": "4"},
+        {"city": "Belo Horizonte", "state": "MG", "postal_prefix": "3"},
+        {"city": "Curitiba", "state": "PR", "postal_prefix": "8"},
+        {"city": "Recife", "state": "PE", "postal_prefix": "5"},
+        {"city": "Porto Alegre", "state": "RS", "postal_prefix": "9"}
+      ]
+    },
+    "AR": {
+      "postal_format": "A####AAA",
+      "cities": [
+        {"city": "Buenos Aires", "state": "Buenos Aires", "postal_prefix": "C"},
+        {"city": "Cordoba", "state": "Cordoba", "postal_prefix": "X"},
+        {"city": "Rosario", "state": "Santa Fe", "postal_prefix": "S"},
+        {"city": "Mendoza", "state": "Mendoza", "postal_prefix": "M"},
+        {"city": "La Plata", "state": "Buenos Aires", "postal_prefix": "B"}
+      ]
+    },
+    "CO": {
+      "postal_format": "######",
+      "cities": [
+        {"city": "Bogota", "state": "Cundinamarca", "postal_prefix": "1"},
+        {"city": "Medellin", "state": "Antioquia", "postal_prefix": "0"},
+        {"city": "Cali", "state": "Valle del Cauca", "postal_prefix": "7"},
+        {"city": "Barranquilla", "state": "Atlantico", "postal_prefix": "0"},
+        {"city": "Cartagena", "state": "Bolivar", "postal_prefix": "1"}
+      ]
+    },
+    "CL": {
+      "postal_format": "#######",
+      "cities": [
+        {"city": "Santiago", "state": "Santiago", "postal_prefix": "8"},
+        {"city": "Valparaiso", "state": "Valparaiso", "postal_prefix": "2"},
+        {"city": "Concepcion", "state": "Biobio", "postal_prefix": "4"}
+      ]
+    },
+    "ZA": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Johannesburg", "state": "Gauteng", "postal_prefix": "20"},
+        {"city": "Cape Town", "state": "Western Cape", "postal_prefix": "80"},
+        {"city": "Durban", "state": "KwaZulu-Natal", "postal_prefix": "40"},
+        {"city": "Pretoria", "state": "Gauteng", "postal_prefix": "00"},
+        {"city": "Port Elizabeth", "state": "Eastern Cape", "postal_prefix": "60"}
+      ]
+    },
+    "NG": {
+      "postal_format": "######",
+      "cities": [
+        {"city": "Lagos", "state": "Lagos", "postal_prefix": "1"},
+        {"city": "Kano", "state": "Kano", "postal_prefix": "7"},
+        {"city": "Ibadan", "state": "Oyo", "postal_prefix": "2"},
+        {"city": "Abuja", "state": "FCT", "postal_prefix": "9"},
+        {"city": "Port Harcourt", "state": "Rivers", "postal_prefix": "5"}
+      ]
+    },
+    "KE": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Nairobi", "state": "Nairobi", "postal_prefix": "00"},
+        {"city": "Mombasa", "state": "Coast", "postal_prefix": "80"},
+        {"city": "Kisumu", "state": "Nyanza", "postal_prefix": "40"},
+        {"city": "Nakuru", "state": "Rift Valley", "postal_prefix": "20"}
+      ]
+    },
+    "EG": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Cairo", "state": "Cairo", "postal_prefix": "1"},
+        {"city": "Alexandria", "state": "Alexandria", "postal_prefix": "2"},
+        {"city": "Giza", "state": "Giza", "postal_prefix": "1"},
+        {"city": "Luxor", "state": "Luxor", "postal_prefix": "8"}
+      ]
+    },
+    "MA": {
+      "postal_format": "#####",
+      "cities": [
+        {"city": "Casablanca", "state": "Casablanca-Settat", "postal_prefix": "2"},
+        {"city": "Rabat", "state": "Rabat-Sale-Kenitra", "postal_prefix": "1"},
+        {"city": "Marrakech", "state": "Marrakech-Safi", "postal_prefix": "4"},
+        {"city": "Fes", "state": "Fes-Meknes", "postal_prefix": "3"}
+      ]
+    },
+    "GH": {
+      "postal_format": "",
+      "cities": [
+        {"city": "Accra", "state": "Greater Accra", "postal_prefix": ""},
+        {"city": "Kumasi", "state": "Ashanti", "postal_prefix": ""},
+        {"city": "Tamale", "state": "Northern", "postal_prefix": ""},
+        {"city": "Takoradi", "state": "Western", "postal_prefix": ""}
+      ]
+    },
+    "AU": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Sydney", "state": "NSW", "postal_prefix": "2"},
+        {"city": "Melbourne", "state": "VIC", "postal_prefix": "3"},
+        {"city": "Brisbane", "state": "QLD", "postal_prefix": "4"},
+        {"city": "Perth", "state": "WA", "postal_prefix": "6"},
+        {"city": "Adelaide", "state": "SA", "postal_prefix": "5"},
+        {"city": "Canberra", "state": "ACT", "postal_prefix": "2"},
+        {"city": "Gold Coast", "state": "QLD", "postal_prefix": "4"},
+        {"city": "Hobart", "state": "TAS", "postal_prefix": "7"}
+      ]
+    },
+    "NZ": {
+      "postal_format": "####",
+      "cities": [
+        {"city": "Auckland", "state": "Auckland", "postal_prefix": "1"},
+        {"city": "Wellington", "state": "Wellington", "postal_prefix": "6"},
+        {"city": "Christchurch", "state": "Canterbury", "postal_prefix": "8"},
+        {"city": "Hamilton", "state": "Waikato", "postal_prefix": "3"},
+        {"city": "Queenstown", "state": "Otago", "postal_prefix": "9"}
+      ]
+    }
+  }
+}

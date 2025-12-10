@@ -1,0 +1,499 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "currency": "USD",
+      "timezone": "America/New_York",
+      "region": "north_america",
+      "phone_code": "+1",
+      "weight": 15
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "currency": "CAD",
+      "timezone": "America/Toronto",
+      "region": "north_america",
+      "phone_code": "+1",
+      "weight": 3
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "currency": "GBP",
+      "timezone": "Europe/London",
+      "region": "uk_ireland",
+      "phone_code": "+44",
+      "weight": 8
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "currency": "EUR",
+      "timezone": "Europe/Dublin",
+      "region": "uk_ireland",
+      "phone_code": "+353",
+      "weight": 1
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "currency": "EUR",
+      "timezone": "Europe/Berlin",
+      "region": "western_europe",
+      "phone_code": "+49",
+      "weight": 8
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "currency": "EUR",
+      "timezone": "Europe/Paris",
+      "region": "western_europe",
+      "phone_code": "+33",
+      "weight": 6
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "currency": "EUR",
+      "timezone": "Europe/Amsterdam",
+      "region": "western_europe",
+      "phone_code": "+31",
+      "weight": 2
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "currency": "EUR",
+      "timezone": "Europe/Brussels",
+      "region": "western_europe",
+      "phone_code": "+32",
+      "weight": 1
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "currency": "EUR",
+      "timezone": "Europe/Vienna",
+      "region": "western_europe",
+      "phone_code": "+43",
+      "weight": 1
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "currency": "CHF",
+      "timezone": "Europe/Zurich",
+      "region": "western_europe",
+      "phone_code": "+41",
+      "weight": 2
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "currency": "EUR",
+      "timezone": "Europe/Madrid",
+      "region": "southern_europe",
+      "phone_code": "+34",
+      "weight": 4
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "currency": "EUR",
+      "timezone": "Europe/Rome",
+      "region": "southern_europe",
+      "phone_code": "+39",
+      "weight": 5
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "currency": "EUR",
+      "timezone": "Europe/Lisbon",
+      "region": "southern_europe",
+      "phone_code": "+351",
+      "weight": 1
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "currency": "EUR",
+      "timezone": "Europe/Athens",
+      "region": "southern_europe",
+      "phone_code": "+30",
+      "weight": 1
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "currency": "PLN",
+      "timezone": "Europe/Warsaw",
+      "region": "eastern_europe",
+      "phone_code": "+48",
+      "weight": 3
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "currency": "CZK",
+      "timezone": "Europe/Prague",
+      "region": "eastern_europe",
+      "phone_code": "+420",
+      "weight": 1
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "currency": "HUF",
+      "timezone": "Europe/Budapest",
+      "region": "eastern_europe",
+      "phone_code": "+36",
+      "weight": 1
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "currency": "RON",
+      "timezone": "Europe/Bucharest",
+      "region": "eastern_europe",
+      "phone_code": "+40",
+      "weight": 1
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "currency": "SEK",
+      "timezone": "Europe/Stockholm",
+      "region": "nordic",
+      "phone_code": "+46",
+      "weight": 2
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "currency": "NOK",
+      "timezone": "Europe/Oslo",
+      "region": "nordic",
+      "phone_code": "+47",
+      "weight": 1
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "currency": "DKK",
+      "timezone": "Europe/Copenhagen",
+      "region": "nordic",
+      "phone_code": "+45",
+      "weight": 1
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "currency": "EUR",
+      "timezone": "Europe/Helsinki",
+      "region": "nordic",
+      "phone_code": "+358",
+      "weight": 1
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "currency": "AED",
+      "timezone": "Asia/Dubai",
+      "region": "middle_east",
+      "phone_code": "+971",
+      "weight": 3
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "currency": "SAR",
+      "timezone": "Asia/Riyadh",
+      "region": "middle_east",
+      "phone_code": "+966",
+      "weight": 2
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "currency": "QAR",
+      "timezone": "Asia/Qatar",
+      "region": "middle_east",
+      "phone_code": "+974",
+      "weight": 1
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "currency": "ILS",
+      "timezone": "Asia/Jerusalem",
+      "region": "middle_east",
+      "phone_code": "+972",
+      "weight": 2
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "currency": "TRY",
+      "timezone": "Europe/Istanbul",
+      "region": "middle_east",
+      "phone_code": "+90",
+      "weight": 3
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "currency": "INR",
+      "timezone": "Asia/Kolkata",
+      "region": "south_asia",
+      "phone_code": "+91",
+      "weight": 10
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "currency": "PKR",
+      "timezone": "Asia/Karachi",
+      "region": "south_asia",
+      "phone_code": "+92",
+      "weight": 2
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "currency": "BDT",
+      "timezone": "Asia/Dhaka",
+      "region": "south_asia",
+      "phone_code": "+880",
+      "weight": 1
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "currency": "LKR",
+      "timezone": "Asia/Colombo",
+      "region": "south_asia",
+      "phone_code": "+94",
+      "weight": 1
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "currency": "CNY",
+      "timezone": "Asia/Shanghai",
+      "region": "east_asia",
+      "phone_code": "+86",
+      "weight": 12
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "currency": "JPY",
+      "timezone": "Asia/Tokyo",
+      "region": "east_asia",
+      "phone_code": "+81",
+      "weight": 8
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "currency": "KRW",
+      "timezone": "Asia/Seoul",
+      "region": "east_asia",
+      "phone_code": "+82",
+      "weight": 4
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "currency": "TWD",
+      "timezone": "Asia/Taipei",
+      "region": "east_asia",
+      "phone_code": "+886",
+      "weight": 2
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "currency": "HKD",
+      "timezone": "Asia/Hong_Kong",
+      "region": "east_asia",
+      "phone_code": "+852",
+      "weight": 3
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "currency": "SGD",
+      "timezone": "Asia/Singapore",
+      "region": "east_asia",
+      "phone_code": "+65",
+      "weight": 3
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "currency": "THB",
+      "timezone": "Asia/Bangkok",
+      "region": "southeast_asia",
+      "phone_code": "+66",
+      "weight": 2
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "currency": "MYR",
+      "timezone": "Asia/Kuala_Lumpur",
+      "region": "southeast_asia",
+      "phone_code": "+60",
+      "weight": 2
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "currency": "IDR",
+      "timezone": "Asia/Jakarta",
+      "region": "southeast_asia",
+      "phone_code": "+62",
+      "weight": 3
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "currency": "PHP",
+      "timezone": "Asia/Manila",
+      "region": "southeast_asia",
+      "phone_code": "+63",
+      "weight": 2
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "currency": "VND",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "region": "southeast_asia",
+      "phone_code": "+84",
+      "weight": 2
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "currency": "MXN",
+      "timezone": "America/Mexico_City",
+      "region": "latin_america",
+      "phone_code": "+52",
+      "weight": 4
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "currency": "BRL",
+      "timezone": "America/Sao_Paulo",
+      "region": "latin_america",
+      "phone_code": "+55",
+      "weight": 6
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "currency": "ARS",
+      "timezone": "America/Argentina/Buenos_Aires",
+      "region": "latin_america",
+      "phone_code": "+54",
+      "weight": 2
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "currency": "COP",
+      "timezone": "America/Bogota",
+      "region": "latin_america",
+      "phone_code": "+57",
+      "weight": 2
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "currency": "CLP",
+      "timezone": "America/Santiago",
+      "region": "latin_america",
+      "phone_code": "+56",
+      "weight": 1
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "currency": "ZAR",
+      "timezone": "Africa/Johannesburg",
+      "region": "africa",
+      "phone_code": "+27",
+      "weight": 3
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "currency": "NGN",
+      "timezone": "Africa/Lagos",
+      "region": "africa",
+      "phone_code": "+234",
+      "weight": 3
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "currency": "KES",
+      "timezone": "Africa/Nairobi",
+      "region": "africa",
+      "phone_code": "+254",
+      "weight": 1
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "currency": "EGP",
+      "timezone": "Africa/Cairo",
+      "region": "africa",
+      "phone_code": "+20",
+      "weight": 2
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "currency": "MAD",
+      "timezone": "Africa/Casablanca",
+      "region": "africa",
+      "phone_code": "+212",
+      "weight": 1
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "currency": "GHS",
+      "timezone": "Africa/Accra",
+      "region": "africa",
+      "phone_code": "+233",
+      "weight": 1
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "currency": "AUD",
+      "timezone": "Australia/Sydney",
+      "region": "oceania",
+      "phone_code": "+61",
+      "weight": 4
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "currency": "NZD",
+      "timezone": "Pacific/Auckland",
+      "region": "oceania",
+      "phone_code": "+64",
+      "weight": 1
+    }
+  ]
+}

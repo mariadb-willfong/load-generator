@@ -1,0 +1,153 @@
+{
+  "regions": {
+    "north_america": {
+      "countries": ["US", "CA"],
+      "names": [
+        "Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller",
+        "Davis", "Rodriguez", "Martinez", "Hernandez", "Lopez", "Gonzalez",
+        "Wilson", "Anderson", "Thomas", "Taylor", "Moore", "Jackson", "Martin",
+        "Lee", "Perez", "Thompson", "White", "Harris", "Sanchez", "Clark",
+        "Ramirez", "Lewis", "Robinson", "Walker", "Young", "Allen", "King",
+        "Wright", "Scott", "Torres", "Nguyen", "Hill", "Flores", "Green",
+        "Adams", "Nelson", "Baker", "Hall", "Rivera", "Campbell", "Mitchell",
+        "Carter", "Roberts"
+      ]
+    },
+    "uk_ireland": {
+      "countries": ["GB", "IE"],
+      "names": [
+        "Smith", "Jones", "Williams", "Taylor", "Brown", "Davies", "Evans",
+        "Wilson", "Thomas", "Roberts", "Johnson", "Lewis", "Walker", "Robinson",
+        "Wood", "Thompson", "White", "Watson", "Jackson", "Wright", "Green",
+        "Harris", "Cooper", "King", "Lee", "Martin", "Clarke", "Murphy",
+        "Kelly", "O'Brien", "Ryan", "Walsh", "O'Connor", "McCarthy", "Murray",
+        "O'Neill", "Byrne", "Doyle", "Daly", "Quinn", "Sullivan", "Kennedy",
+        "Lynch", "Brennan", "Carroll", "Collins", "Hayes", "Hughes", "Kavanagh", "O'Reilly"
+      ]
+    },
+    "western_europe": {
+      "countries": ["DE", "FR", "NL", "BE", "AT", "CH"],
+      "names": [
+        "Muller", "Schmidt", "Schneider", "Fischer", "Weber", "Meyer", "Wagner",
+        "Becker", "Schulz", "Hoffmann", "Schaefer", "Koch", "Bauer", "Richter",
+        "Martin", "Bernard", "Dubois", "Thomas", "Robert", "Richard", "Petit",
+        "Durand", "Leroy", "Moreau", "Laurent", "de Jong", "Jansen", "de Vries",
+        "van den Berg", "Bakker", "Visser", "Smit", "Meijer", "Peeters", "Janssen",
+        "Maes", "Claes", "Gruber", "Huber", "Steiner", "Brunner", "Moser",
+        "Widmer", "Schmid", "Keller", "Frei", "Baumann", "Zimmermann", "Schwarz", "Braun"
+      ]
+    },
+    "southern_europe": {
+      "countries": ["ES", "IT", "PT", "GR"],
+      "names": [
+        "Garcia", "Martinez", "Rodriguez", "Lopez", "Gonzalez", "Hernandez",
+        "Sanchez", "Fernandez", "Perez", "Martin", "Gomez", "Ruiz", "Diaz",
+        "Rossi", "Russo", "Ferrari", "Esposito", "Bianchi", "Romano", "Colombo",
+        "Ricci", "Marino", "Greco", "Bruno", "Gallo", "Silva", "Santos", "Ferreira",
+        "Pereira", "Oliveira", "Costa", "Rodrigues", "Martins", "Sousa", "Fernandes",
+        "Papadopoulos", "Pappas", "Georgiou", "Nikolaou", "Konstantinidis",
+        "Papadakis", "Alexopoulos", "Christodoulou", "Petridis", "Antoniou"
+      ]
+    },
+    "eastern_europe": {
+      "countries": ["PL", "CZ", "HU", "RO", "BG", "UA", "RU"],
+      "names": [
+        "Nowak", "Kowalski", "Wisniewski", "Wojcik", "Kowalczyk", "Kaminski",
+        "Lewandowski", "Zielinski", "Szymanski", "Wozniak", "Novak", "Svoboda",
+        "Novotny", "Dvorak", "Cerny", "Nagy", "Kovacs", "Szabo", "Horvath",
+        "Toth", "Popescu", "Popa", "Ionescu", "Dumitru", "Stoica", "Ivanov",
+        "Petrov", "Georgiev", "Dimitrov", "Nikolov", "Shevchenko", "Bondarenko",
+        "Kovalenko", "Melnyk", "Tkachenko", "Ivanov", "Smirnov", "Kuznetsov",
+        "Popov", "Sokolov", "Lebedev", "Kozlov", "Novikov", "Morozov", "Volkov"
+      ]
+    },
+    "nordic": {
+      "countries": ["SE", "NO", "DK", "FI"],
+      "names": [
+        "Andersson", "Johansson", "Karlsson", "Nilsson", "Eriksson", "Larsson",
+        "Olsson", "Persson", "Svensson", "Gustafsson", "Hansen", "Johansen",
+        "Olsen", "Larsen", "Andersen", "Pedersen", "Nilsen", "Kristiansen",
+        "Jensen", "Nielsen", "Petersen", "Christensen", "Rasmussen", "Madsen",
+        "Mortensen", "Korhonen", "Virtanen", "Makinen", "Nieminen", "Maki",
+        "Hamalainen", "Laine", "Heikkinen", "Koskinen", "Jarvinen", "Lehtonen",
+        "Lindqvist", "Lindberg", "Bergstrom", "Lundin"
+      ]
+    },
+    "middle_east": {
+      "countries": ["AE", "SA", "QA", "KW", "BH", "OM", "IL", "TR"],
+      "names": [
+        "Al-Maktoum", "Al-Nahyan", "Al-Saud", "Al-Thani", "Al-Sabah", "Al-Khalifa",
+        "Al-Said", "Al-Rashid", "Al-Qasimi", "Al-Hassan", "Al-Ahmed", "Al-Ali",
+        "Al-Omar", "Hashemi", "Hosseini", "Cohen", "Levy", "Mizrahi", "Peretz",
+        "Friedman", "Goldberg", "Katz", "Rosenberg", "Yilmaz", "Kaya", "Demir",
+        "Celik", "Sahin", "Yildiz", "Aydin", "Ozturk", "Arslan", "Dogan", "Kilic",
+        "Al-Farsi", "Al-Balushi", "Al-Zaabi", "Al-Hosani", "Al-Mansoori", "Al-Shamsi"
+      ]
+    },
+    "south_asia": {
+      "countries": ["IN", "PK", "BD", "LK", "NP"],
+      "names": [
+        "Sharma", "Verma", "Gupta", "Singh", "Kumar", "Patel", "Rao", "Reddy",
+        "Joshi", "Nair", "Iyer", "Menon", "Pillai", "Das", "Chakraborty", "Khan",
+        "Ahmed", "Ali", "Hussain", "Rahman", "Malik", "Sheikh", "Chowdhury",
+        "Hasan", "Islam", "Fernando", "Perera", "Silva", "de Silva", "Jayawardena",
+        "Bandara", "Wijesinghe", "Shrestha", "Thapa", "Gurung", "Tamang", "Lama",
+        "Rai", "Acharya", "Bhandari"
+      ]
+    },
+    "east_asia": {
+      "countries": ["CN", "JP", "KR", "TW", "HK", "SG"],
+      "names": [
+        "Wang", "Li", "Zhang", "Liu", "Chen", "Yang", "Huang", "Zhao", "Wu",
+        "Zhou", "Xu", "Sun", "Ma", "Zhu", "Hu", "Sato", "Suzuki", "Takahashi",
+        "Tanaka", "Watanabe", "Ito", "Yamamoto", "Nakamura", "Kobayashi",
+        "Yoshida", "Kim", "Lee", "Park", "Choi", "Jung", "Kang", "Yoon", "Jang",
+        "Lim", "Han", "Lin", "Liao", "Wong", "Chan", "Tan", "Ng", "Goh", "Lim", "Teo", "Chua"
+      ]
+    },
+    "southeast_asia": {
+      "countries": ["TH", "MY", "ID", "PH", "VN"],
+      "names": [
+        "Saelim", "Srisuk", "Thongchai", "Wongsuwan", "Prasert", "Bin Abdullah",
+        "Binti Ahmad", "Tan", "Lim", "Wong", "Lee", "Ng", "Susanto", "Wijaya",
+        "Santoso", "Suharto", "Pratama", "Setiawan", "Widodo", "Kurniawan",
+        "Santos", "Reyes", "Cruz", "Bautista", "Garcia", "Ramos", "Gonzales",
+        "Hernandez", "Nguyen", "Tran", "Le", "Pham", "Hoang", "Vu", "Vo", "Dang",
+        "Bui", "Do", "Ho", "Ngo"
+      ]
+    },
+    "latin_america": {
+      "countries": ["MX", "BR", "AR", "CO", "CL", "PE", "VE"],
+      "names": [
+        "Hernandez", "Garcia", "Martinez", "Lopez", "Gonzalez", "Rodriguez",
+        "Perez", "Sanchez", "Ramirez", "Torres", "Flores", "Rivera", "Gomez",
+        "Diaz", "Morales", "da Silva", "Santos", "Oliveira", "Souza", "Pereira",
+        "Costa", "Ferreira", "Rodrigues", "Almeida", "Nascimento", "Fernandez",
+        "Alvarez", "Romero", "Sosa", "Acosta", "Medina", "Vargas", "Castillo",
+        "Rojas", "Reyes", "Gutierrez", "Ortiz", "Chavez", "Mendoza", "Herrera"
+      ]
+    },
+    "africa": {
+      "countries": ["ZA", "NG", "KE", "EG", "MA", "GH", "TZ", "ET"],
+      "names": [
+        "Nkosi", "Dlamini", "Zulu", "Ndlovu", "Mokoena", "van der Merwe",
+        "Botha", "Pretorius", "du Plessis", "Okonkwo", "Adeyemi", "Okafor",
+        "Nnamdi", "Babatunde", "Kamau", "Mwangi", "Ochieng", "Wanjiku", "Njoroge",
+        "Kipchoge", "Ibrahim", "Hassan", "Ahmed", "Mohamed", "El-Sayed",
+        "Benali", "Alaoui", "Idrissi", "Berrada", "Mensah", "Asante", "Boateng",
+        "Osei", "Agyemang", "Mwakasege", "Msangi", "Kimaro", "Tesfaye", "Bekele", "Haile"
+      ]
+    },
+    "oceania": {
+      "countries": ["AU", "NZ"],
+      "names": [
+        "Smith", "Jones", "Williams", "Brown", "Wilson", "Taylor", "Johnson",
+        "White", "Martin", "Anderson", "Thompson", "Walker", "Harris", "Lee",
+        "Robinson", "Clark", "Lewis", "Young", "Hall", "King", "Wright", "Scott",
+        "Green", "Adams", "Baker", "Hill", "Moore", "Campbell", "Mitchell",
+        "Roberts", "Turner", "Phillips", "Parker", "Evans", "Edwards", "Collins",
+        "Stewart", "Morris", "Murphy", "Kelly", "Cook", "Bell", "Bailey", "Cooper", "Ward"
+      ]
+    }
+  }
+}
